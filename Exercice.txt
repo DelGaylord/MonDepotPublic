@@ -3,3 +3,5 @@ Enoncé de l'Exo
 On considere un eleve avec un nom, prenom et une serie de notes.
 
 Faite un programme pour montrer l'ensemble des eleves ainsi que leurs moyennes.
+
+Faite de même avec des mentions
